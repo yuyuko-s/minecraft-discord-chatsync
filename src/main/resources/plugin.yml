@@ -1,0 +1,4 @@
+name: chatsync
+version: '${project.version}'
+main: org.komeiji.chatsync.Chatsync
+api-version: '1.20'

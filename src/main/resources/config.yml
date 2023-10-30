@@ -1,0 +1,7 @@
+# ChatSync by Roman Daher
+
+#Discord bot token.
+token: ""
+
+# Specify the ID of the channel you would like to enable chat-sync in
+channel-id: ""
