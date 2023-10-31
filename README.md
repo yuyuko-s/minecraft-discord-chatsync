@@ -17,3 +17,6 @@ Enable developer mode in Discord settings, and right-click the channel where you
 
 ## Step 4: Run
 The plugin should be ready, restart your server if you haven't already.
+
+# Issues
+I made this primarily for myself. Only tested on a PaperMC server running Minecraft 1.20.2. Make an issue if it doesn't work on a specific version and I can fix it when I have time.
